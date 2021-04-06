@@ -1,4 +1,5 @@
 # DashBugTest
+The Tests are build with minimal configurations in ionic or vue and with the tutorial code of dash. 
  
 Try it yourself:
 
